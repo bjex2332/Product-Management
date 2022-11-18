@@ -22,8 +22,8 @@ To test if the databases are sycn'd correctly and talking to each other, you pul
 ## Installation
 N/A
 
-## Contribution
-No
+## Video Link
+https://drive.google.com/file/d/1AYKH9eLEXFh5iZi85_QxEIv7aakxUHP9/view
 
 ## Email
 bjex2332@gmail.com
